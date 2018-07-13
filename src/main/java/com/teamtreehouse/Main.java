@@ -13,6 +13,7 @@ public class Main {
             printer.printRecord("Juraj", 4, "Ahoj, ako, sa mas");
             printer.printRecord("John", 15, "blabla master");
             printer.printRecord("Martin", 5, "blabla");
+            printer.printRecord("Adam", 66, "test");
         } catch (IOException e) {
             e.printStackTrace();
         }
